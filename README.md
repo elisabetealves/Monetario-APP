@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <p align="center" style="font-weight: bold;">🚀 Monetario-APP</p>
+    <p align="center" style="font-weight: bold;">🚀 Monetário-APP</p>
 </h1>
 
 <br>
