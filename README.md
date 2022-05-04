@@ -39,8 +39,6 @@ _Qualquer dúvida ou sugestão, chama no contatinho!_
 - [LinkedIn](https://www.linkedin.com/in/elisabete-a-santos/)
 - [GitHub](https://github.com/elisabetealves)
 
-<br>
-
 ### Feito com 💕 e muita dedicação
 
 
